@@ -24,13 +24,13 @@ The goal of this project is to transform raw data into meaningful insights by cl
 - Excel AI tools  
 - GitHub for project hosting
 
-## 📁 Files Included
+## Files Included
 - **Data_Clean.xlsx** – The raw and cleaned data process  
 - **Sales Data Analysis.xlsx** – Analysis and insights derived from cleaned data  
 
-## 🎯 Objective
+## Objective
 To build a practical project that showcases data entry, cleaning, and analysis skills for data-related roles.
 
-## 🔗 Connect with Me
+##  Connect with Me
 [LinkedIn Profile]https://www.linkedin.com/in/anushilan-dolai-608b00368
 
