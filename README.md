@@ -9,8 +9,8 @@ The goal of this project is to transform raw data into meaningful insights by cl
 - Standardized phone numbers, names, and date formats  
 - Handled missing values  
 - Used Excel functions like:
-  - `TRIM()`, `PROPER()`, `UPPER()`, `IFERROR()`
-  - Data validation and Flash Fill  
+  - `TRIM()`, `PROPER()`, `UPPER()`
+  -  Flash Fill  
 - Ensured the dataset was ready for analysis
 
 ##  Data Analysis
